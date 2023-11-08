@@ -1,3 +1,6 @@
+# Data Science For Cancer Analysis
+
+## The Effect of Socioeconomic Factors on Cancer Rates
 This is your group repo for your final project for COGS108.
 
 This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
