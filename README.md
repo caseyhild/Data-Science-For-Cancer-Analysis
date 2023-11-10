@@ -1,4 +1,5 @@
 # Data Science For Cancer Analysis: The Effect of Socioeconomic Factors on Cancer Rates
+In this project, I looked at cancer incidence and death rates and how that relates to socioeconomic status by looking at a few key variables related to socioeconomic status including median income and poverty levels. I utilized average data of various U.S. counties to run linear regressions and hypothesis tests. In my analysis, I found that socioeconomic status does seem to impact cancer death rates. In particular, the results seem to indicate that lower socioeconomic status seems to be correlated with increased rate of death by cancer, whereas there seems to be no correlation with socioeconomic status and cancer incidence rates.
 
 <img width="895" alt="Screenshot 2023-11-09 at 8 15 28 PM" src="https://github.com/caseyhild/Data-Science-For-Cancer-Analysis/assets/44584719/414f6e55-d23b-4022-a373-a6640d09aac6">
 <img width="908" alt="Screenshot 2023-11-09 at 8 15 57 PM" src="https://github.com/caseyhild/Data-Science-For-Cancer-Analysis/assets/44584719/ba57c845-6f6f-4820-9cd6-c3e8abafafb0">
