@@ -1,6 +1,7 @@
 # Data Science For Cancer Analysis: The Effect of Socioeconomic Factors on Cancer Rates
 UC San Diego COGS 108<br>
-Casey Hild, Aasem Fituri, Carlos van der Ley, Jeremy Quinto<br>
+Casey Hild, Aasem Fituri, Carlos van der Ley, Jeremy Quinto
+
 
 
 <img width="895" alt="Screenshot 2023-11-09 at 8 15 28 PM" src="https://github.com/caseyhild/Data-Science-For-Cancer-Analysis/assets/44584719/414f6e55-d23b-4022-a373-a6640d09aac6">
